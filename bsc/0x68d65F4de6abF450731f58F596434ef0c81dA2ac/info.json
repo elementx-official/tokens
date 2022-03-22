@@ -1,0 +1,11 @@
+{
+ "name": "ElementX Ice",
+ "website": "https://www.elementx.games/",
+ "description": "An online NFT RPG based on BNB Chain, with fast-paced PvE & PvP combat, and immersive stories.",
+ "explorer": "https://bscscan.com/token/0x68d65F4de6abF450731f58F596434ef0c81dA2ac",
+ "type": "BEP20",
+ "symbol": "ICE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x68d65F4de6abF450731f58F596434ef0c81dA2ac"
+}
